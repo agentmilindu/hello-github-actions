@@ -1,4 +1,5 @@
-FROM debian:9.5-slim
+FROM node:alpine
+RUN npm install -g chance-cli
 
 ADD entrypoint.sh /entrypoint.sh
 RUN chmod +x /entrypoint.sh
