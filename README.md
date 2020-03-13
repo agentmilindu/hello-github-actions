@@ -1,5 +1,3 @@
-## Welcome to "Hello World" with GitHub Actions
+## Welcome to "	Randon name generator" with GitHub Actions
 
-This course will walk you through writing your first action and using it with a workflow file. 
-
-**Ready to get started? Navigate to the first issue.**
+This will generate a rendom human readable name. You can use this for naming you versions like Ubuntu does, etc. 
